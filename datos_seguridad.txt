@@ -1,0 +1,6 @@
+e56fbd50187042ddb52609330c61ebac
+b_arganaraz_londero_coderhouse
+msw7K88pN6
+data-engineer-cluster.cyhh5bfevlmn.us-east-1.redshift.amazonaws.com
+5439
+data-engineer-database
